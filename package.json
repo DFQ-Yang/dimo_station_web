@@ -1,0 +1,19 @@
+{
+  "name": "personal_web",
+  "version": "1.0.0",
+  "description": "个人网站 - 启动脚本",
+  "main": "index.js",
+  "scripts": {
+    "start:server": "cd server && node dist/index.js",
+    "start:client": "cd client && npm run dev",
+    "build:server": "cd server && npm run build",
+    "build:client": "cd client && npm run build",
+    "dev": "concurrently \"npm run start:server\" \"npm run start:client\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
