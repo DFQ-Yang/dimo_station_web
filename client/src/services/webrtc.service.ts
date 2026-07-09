@@ -24,7 +24,7 @@ class WebRTCService {
   async joinRoom(roomCode: string): Promise<void> {
     // 连接到信令服务器（如果未连接）
     if (!SignalService.isConnected()) {
-      await SignalService.connect('ws://localhost:3001');
+      await SignalService.connect('ws://8.141.117.128:3001');
     }
 
     // 发送加入房间消息

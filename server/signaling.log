@@ -1,0 +1,26 @@
+nohup: ignoring input
+
+> server@1.0.0 start
+> node dist/index.js
+
+信令服务器启动成功，监听端口 3001
+WebSocket 地址: ws://localhost:3001
+新的 WebSocket 连接建立
+Peer 6rdu5t3gxg6 加入房间 dimo1019
+新的 WebSocket 连接建立
+Peer kp6w5yuz7u 加入房间 dimi1019
+Peer ylyyxs52ljf 加入房间 dimi1019
+Peer ps0rogs135d 加入房间 dimo1019
+Peer taomdhrc6f 加入房间 23F9LU
+WebSocket 连接关闭
+Peer h7a71omms9s 加入房间 HXFF2V
+Peer gm76rzljwhj 加入房间 HXFF2V
+WebSocket 连接关闭
+新的 WebSocket 连接建立
+Peer yft297gj3b 加入房间 HXFF2V
+新的 WebSocket 连接建立
+Peer ouzb22zrada 加入房间 HXFF2V
+WebSocket 连接关闭
+新的 WebSocket 连接建立
+Peer c5vfftnp2d8 加入房间 HXFF2V
+Peer dvza9fyuk5d 加入房间 HXFF2V
