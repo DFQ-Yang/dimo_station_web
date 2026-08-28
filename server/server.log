@@ -1,4 +1,0 @@
-信令服务器启动成功，监听端口 3001
-WebSocket 地址: ws://localhost:3001
-HTTP服务器启动成功，监听端口 3001
-MySQL connection established successfully

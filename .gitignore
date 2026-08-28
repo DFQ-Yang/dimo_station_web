@@ -1,1 +1,20 @@
+# Dependencies
 node_modules
+**/node_modules
+
+# Build output
+dist
+**/dist
+
+# Environment variables (may contain secrets)
+.env
+**/.env
+
+# Logs
+*.log
+**/server.log
+**/server.err.log
+
+# Lock files
+package-lock.json
+**/package-lock.json
